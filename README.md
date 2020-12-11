@@ -1,2 +1,2 @@
 # provaverifica2
-prova remoto
+prova locale
